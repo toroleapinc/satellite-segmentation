@@ -1,0 +1,9 @@
+torch>=1.0
+torchvision>=0.2
+numpy>=1.14
+rasterio>=1.0
+shapely>=1.6
+pandas>=0.23
+matplotlib>=2.2
+tifffile>=2018.10
+opencv-python>=3.4
