@@ -9,3 +9,5 @@ pip install -r requirements.txt
 python prepare_data.py --data-dir data/dstl/
 python run_training.py --epochs 80
 ```
+
+Mean IoU after 80 epochs: ~0.42 (buildings and roads best, vehicles worst due to small size).
